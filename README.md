@@ -3,6 +3,11 @@ My Harvard CS50 Exercises
 
 ## hello.c
 This is the standard Hello, world script.
+- string output
 
 ## mario.c
 This creates a cute pyramid for Mario to climb up.
+- do, while loops
+- for loops
+- printing spaces
+- user input
