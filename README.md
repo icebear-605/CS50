@@ -17,3 +17,8 @@ This calculates the lowest number of coins needed to return change
 - do, while
 - if, else if, else
 - floats
+
+## readability.c
+This says what level of reading a sentence is.
+- parsing strings into characters, words, and sentences
+- working with floats vs ints & mathematical operations
