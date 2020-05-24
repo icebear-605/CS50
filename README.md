@@ -4,6 +4,8 @@ My Harvard CS50 Exercises
 ## hello.c
 This is the standard Hello, world script.
 - string output
+- Input: none
+- Output: Hello, world
 
 ## mario.c
 This creates a cute pyramid for Mario to climb up.
@@ -11,14 +13,20 @@ This creates a cute pyramid for Mario to climb up.
 - for loops
 - printing spaces
 - user input
+- Input: number
+- Output: Mario pyramid
 
 ## cash.c
 This calculates the lowest number of coins needed to return change
 - do, while
 - if, else if, else
 - floats
+- Input: dollar amount
+- Output: minimum number of coins needed
 
 ## readability.c
 This says what level of reading a sentence is.
 - parsing strings into characters, words, and sentences
 - working with floats vs ints & mathematical operations
+- Input: Sentence(s)
+- Output: Reading grade level
