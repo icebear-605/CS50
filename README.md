@@ -31,3 +31,11 @@ This says what level of reading a sentence is.
 - Input: Sentence(s)
 - Output: Reading grade level
 - helpful: https://theasciicode.com.ar/ascii-printable-characters/lowercase-letter-m-minuscule-ascii-code-109.html
+
+## caesar.c
+This takes an input string and encrypts it using a given numerical key
+- working with memory / defining strings
+- iterating through characters
+- working with ASCII
+- inputs on function execute
+- return response
