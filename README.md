@@ -39,3 +39,9 @@ This takes an input string and encrypts it using a given numerical key
 - working with ASCII
 - inputs on function execute
 - return response
+
+## plurality.c
+This conducts an election
+- working with functions
+- working with structs
+- using strcmp()
