@@ -45,3 +45,7 @@ This conducts an election
 - working with functions
 - working with structs
 - using strcmp()
+
+## runoff.c
+This conducts an election and ensures the winner gets more than 50% of the vote by conducting runoffs
+- working more with functions
